@@ -88,7 +88,7 @@ volunteer mentor.
 
 <h3 align="center"> 
   Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/promzzykoncepts/count.svg" />
+  <img src="https://profile-counter.glitch.me/techEmprez/count.svg" />
 </h3>
 
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
