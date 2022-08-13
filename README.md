@@ -140,29 +140,11 @@ Current Projects
 <a href="https://github.com/mavericks-db/capstone02">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone02" />
 </a>
-<a href="https://github.com/mavericks-db/math-magicians">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=math-magicians" />
-</a>
 <a href="https://github.com/mavericks-db/bookstore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=bookstore" />
 </a>
-<a href="https://github.com/mavericks-db/space-travelers-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=space-travelers-hub" />
-</a>
 <a href="https://github.com/mavericks-db/capstone03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone03" />
-</a>
-<a href="https://github.com/mavericks-db/vet-clinic-database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=vet-clinic-database" />
-</a>
-<a href="https://github.com/mavericks-db/morse-decoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=morse-decoder" />
-</a>
-<a href="https://github.com/mavericks-db/my-enumerable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=my-enumerable" />
-</a>
-<a href="https://github.com/mavericks-db/oop-school-library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=oop-school-library" />
 </a>
 <a href="https://github.com/mavericks-db/TDD-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=TDD-project" />
