@@ -8,8 +8,6 @@ Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/ima
 Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in March 2022.
 Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
-🎓 I graduated from the [University of the Philippines - Diliman](https://upd.edu.ph/) with a degree in 🏗 BS Civil Engineering.
-
 🥅 My main goal after completing the program is to be able to secure a full-stack web developer job position,
 as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
 volunteer mentor.
@@ -21,13 +19,13 @@ volunteer mentor.
   <h2 align="center">
   📬 You can reach me at :
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
-  [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/mavericks-db)
-  [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
+  [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
+  [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/suigeneriz-_001)
+  [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez/)
 
-  [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
-  [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
-  [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/techEmprez)
+  [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/techEmprez/)
+  [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitchoiceosobor@gmail.com)
   </h2>
 
   <h2 align="center">
