@@ -1,8 +1,8 @@
 <h1 align="left">
-Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-🌱 A self-taught full-stack web developer from the [Philippines](https://en.wikipedia.org/wiki/Philippines).
+🌱 A self-taught full-stack web developer from the [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
 
 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
 Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in March 2022.
