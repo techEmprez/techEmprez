@@ -1,142 +1,180 @@
-<p align="center">
-  <a href="#"> <img src="assets/welcome.svg"/> </a>
-</p>
+<h1 align="left">
+Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
 
+🌱 A self-taught full-stack web developer from the [Philippines](https://en.wikipedia.org/wiki/Philippines).
 
-<p align="center">
-  <a href="#"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
-</p>
+👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
+Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in March 2022.
+Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
+🎓 I graduated from the [University of the Philippines - Diliman](https://upd.edu.ph/) with a degree in 🏗 BS Civil Engineering.
 
+🥅 My main goal after completing the program is to be able to secure a full-stack web developer job position,
+as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
+volunteer mentor.
 
-<b>*About Me*:</b> 
+---
+<table align="center">
+  <tr>
+    <td>
+  <h2 align="center">
+  📬 You can reach me at :
 
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
+  [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
+  [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/mavericks-db)
+  [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 
+  [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
+  [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
+  [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
+  </h2>
 
-<b>*Connect With Me*:</b> 
+  <h2 align="center">
+🛠️ Languages and Tools :
 
-[<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="25px" src="assets/twitter.svg" />][twitter]
-
-<br />
-<br />
-
-
-
-<b>*GitHub Stats*:</b> 
-  
-  <b> </b> 
-  
-  
-<p align="center">
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/SamirPaul1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
-  </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/SamirPaul1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" width="65px" src="https://img.shields.io/badge/-HTML5-white?logo=HTML5&logoColor=E34F26&style=plastic"/></a></td>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="65px" src="https://img.shields.io/badge/-CSS3-white?logo=CSS3&logoColor=1572B6&style=plastic"/></a></td>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="80px" src="https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=plastic"/></a></td>
+        <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://reactjs.org/"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></a></td>
+      <td align="center"><a href="https://redux.js.org/"><img alt="Redux" width="65px" src="https://img.shields.io/badge/-Redux-white?logo=Redux&logoColor=764ABC&style=plastic"/></a></td>
+      <td align="center"><a href="https://webpack.js.org/"><img alt="Webpack" width="65px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></a></td>
+      <td align="center"><a href="https://jestjs.io/"><img alt="Jest" width="65px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.ruby-lang.org/en/"><img alt="Ruby" width="65px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.ruby-lang.org/en/"><img alt="RubyGems" width="65px" src="https://img.shields.io/badge/-Gems-white?logo=RubyGems&logoColor=E9573F&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="65px" src="https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL&logoColor=4169E1&style=plastic"/></a></td>
+      <td align="center"><a href="https://rubyonrails.org/"><img alt="Ruby-on-Rails" width="65px" src="https://img.shields.io/badge/-Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://webhint.io/"><img alt="webhint" width="65px" src="https://img.shields.io/badge/-webhint-white?logo=webhint&logoColor=4700A3&style=plastic"/></a></td>
+      <td align="center"><a href="https://stylelint.io/"><img alt="stylelint" width="65px" src="https://img.shields.io/badge/-stylelint-white?logo=stylelint&logoColor=263238&style=plastic"/></a></td>
+      <td align="center"><a href="https://rubocop.org/"><img alt="RuboCop" width="65px" src="https://img.shields.io/badge/-RuboCop-white?logo=RuboCop&logoColor=000000&style=plastic"/></a></td>
+      <td align="center"><a href="https://eslint.org/"><img alt="ESLint" width="65px" src="https://img.shields.io/badge/-ESLint-white?logo=ESLint&logoColor=4B32C3&style=plastic"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/"><img alt="GitHub" width="65px" src="https://img.shields.io/badge/-GitHub-white?logo=GitHub&logoColor=181717&style=plastic"/></td>
+      <td align="center"><a href="https://about.gitlab.com/"><img alt="GitLab" width="65px" src="https://img.shields.io/badge/-GitLab-white?logo=Gitlab&logoColor=FC6D26&style=plastic"/></td>
+      <td align="center"><a href="https://www.heroku.com/"><img alt="Heroku" width="65px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.netlify.com/"><img alt="Netlify" width="65px" src="https://img.shields.io/badge/-Netlify-white?logo=Netlify&logoColor=00C7B7&style=plastic"/></a></td>
+    </tr>
 </table>
-</p>
-  
-  
-<b>*Languages And Tools*:</b>
-  
-<b> </b>  
+</h2>
+      </td>
+      <td>
+      <img src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="auto" />
+      </td>
+    </tr>
+</table>
 
-<p align="center">
-  
-[<code  >
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
-</code>](#)
-[<code >
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
-</code>](#)
-[<code >
-<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
-</code>](#)
-[<code >
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
-</code>](#)
-[<code >
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
-</code>](#)
-[<code >
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
-</code>](#)
-[<code >
-<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
-</code>](#)
-[<code >
-<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
-</code>](#)
-[<code >
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
-</code>](#)
-[<code >
-<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
-</code>](#)
-[<code >
-<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
-</code>](#)
-[<code >
-<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
-</code>](#)
-[<code >
-<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
-</code>](#)
-[<code >
-<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
-</code>](#)
-[<code >
-<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
-</code>](#)
-[<code >
-<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
-</code>](#)
-[<code >
-<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
-</code>](#)
-[<code >
-<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
-</code>](#)
-[<code>
-<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
-</code>](#)
-
-</p>  
-
-  
-<p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
-</p>
-  
-  
-  
+<h2 align ="center">⚡ My Stats :
+<div >
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
+</div>
 
 
+<!-- <h2>Weekly Coding Stats</h2>
+
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
+
+<div align="center">
+
+[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
+
+<a href = "https://commits.top/philippines.html" target="_blank">
+	<img src="https://enabophag4mizla.m.pipedream.net" alt="mavericks-db" target="_blank"/>
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
 
+<!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
+</div>
 
-[linkedin]: https://www.linkedin.com/in/SamirPaul
-[twitter]: https://twitter.com/intent/follow?screen_name=SamirPaulb
-[email]: mailto:samirpaulb@gmail.com
-[instagram]: https://www.instagram.com/SamirPaulb
-[facebook]: https://www.facebook.com/SamirPaulb
-[whatsapp]: https://wa.me/91**********?text=Hello%20Samir
-[leetcode]: https://leetcode.com/samirpaul1
-[hackerrank]: https://www.hackerrank.com/samirpaul1
-[codechef]: https://www.codechef.com/users/samirpaul1
-[geeksforgeeks]: https://auth.geeksforgeeks.org/user/samirpaul1/practice
+
+---
+<details>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./assets/ruby-badge.png" width="80"></a></td>
+  </tr>
+</table>
+</details>
+
+<details>
+  <summary align='center'><a href="https://www.datacamp.com/"><img align="center" src="./assets/datacamp-logo.png" width="25"/></a> DataCamp Certificates</summary>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.datacamp.com/statement-of-accomplishment/course/1a731bb2d52db012afbd2b53eef3b9fb7dfbb810" target="blank"><img src="./assets/intro-sql.png" width="80"></a></td>
+  </tr>
+</table>
+</details>
+
+---
+Current Projects
+
+<a href="https://github.com/mavericks-db/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=portfolio" />
+</a>
+<a href="https://github.com/mavericks-db/capstone01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
+</a>
+<a href="https://github.com/mavericks-db/awesome-books-ES6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=awesome-books-ES6" />
+</a>
+<a href="https://github.com/mavericks-db/todo-list">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=todo-list" />
+</a>
+<a href="https://github.com/mavericks-db/leaderboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=leaderboard" />
+</a>
+<a href="https://github.com/mavericks-db/capstone02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone02" />
+</a>
+<a href="https://github.com/mavericks-db/math-magicians">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=math-magicians" />
+</a>
+<a href="https://github.com/mavericks-db/bookstore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=bookstore" />
+</a>
+<a href="https://github.com/mavericks-db/space-travelers-hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=space-travelers-hub" />
+</a>
+<a href="https://github.com/mavericks-db/capstone03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone03" />
+</a>
+<a href="https://github.com/mavericks-db/vet-clinic-database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=vet-clinic-database" />
+</a>
+<a href="https://github.com/mavericks-db/morse-decoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=morse-decoder" />
+</a>
+<a href="https://github.com/mavericks-db/my-enumerable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=my-enumerable" />
+</a>
+<a href="https://github.com/mavericks-db/oop-school-library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=oop-school-library" />
+</a>
+<a href="https://github.com/mavericks-db/TDD-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=TDD-project" />
+</a>
+<a href="https://github.com/mavericks-db/capstone04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone04" />
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together! 🚀 <em>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
