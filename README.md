@@ -86,12 +86,10 @@ volunteer mentor.
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
 
-<a href = "https://commits.top/philippines.html" target="_blank">
-	<img src="https://enabophag4mizla.m.pipedream.net" alt="mavericks-db" target="_blank"/>
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
-
+<h3 align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/promzzykoncepts/count.svg" />
+</h3>
 
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
