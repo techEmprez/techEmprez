@@ -19,11 +19,11 @@ volunteer mentor.
   <h2 align="center">
   📬 You can reach me at :
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-techEmprez--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
-  [![AngelList Badge](https://img.shields.io/badge/-techEmprez--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/suigeneriz-_001)
-  [![GitHub Badge](https://img.shields.io/badge/-techEmprez--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-techEmprez-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
+  [![AngelList Badge](https://img.shields.io/badge/-techEmprez-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/suigeneriz-_001)
+  [![GitHub Badge](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez/)
 
-  [![Twitter Badge](https://img.shields.io/badge/-techEmprez__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/techEmprez)
+  [![Twitter Badge](https://img.shields.io/badge/-techEmprez_-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/techEmprez)
   [![Facebook Badge](https://img.shields.io/badge/-techEmprez-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/techEmprez/)
   [![Gmail Badge](https://img.shields.io/badge/-@balitchoiceosobor-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitchoiceosobor@gmail.com)
   </h2>
