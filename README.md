@@ -96,10 +96,11 @@ volunteer mentor.
   <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/96ad2590-b656-439e-add9-5e42d6bf6034" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./assets/ruby-badge.png" width="80"></a></td>
+    
   </tr>
 </table>
 </details>
