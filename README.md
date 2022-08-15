@@ -2,10 +2,10 @@
 Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-🌱 A self-taught full-stack web developer from the [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
+🌱 A self-taught full-stack web developer from [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
 
 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
-Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in March 2022.
+Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in July 2020.
 Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
 🥅 My main goal after completing the program is to be able to secure a full-stack web developer job position,
