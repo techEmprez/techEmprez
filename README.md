@@ -35,8 +35,8 @@ volunteer mentor.
     <tr>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" width="65px" src="https://img.shields.io/badge/-HTML5-white?logo=HTML5&logoColor=E34F26&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="65px" src="https://img.shields.io/badge/-CSS3-white?logo=CSS3&logoColor=1572B6&style=plastic"/></a></td>
-      <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="80px" src="https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=plastic"/></a></td>
+      <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
         
     </tr>
     <tr>
@@ -85,15 +85,11 @@ volunteer mentor.
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/techEmprez/techEmprez?color=blue)](https://github.com/techEmprez) [![Repos Badge](https://badges.pufler.dev/repos/techEmprez?color=blue)](https://github.com/techEmprez?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/techEmprez?color=blue)](https://github.com/techEmprez)
-
 <h3 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/techEmprez/count.svg" />
 </h3>
-
-<!-- [![My Badge](https://img.shields.io/badge/i_am-techEmprez-blue)](https://github.com/techEmprez) -->
-</div>
+  </div>
 
 
 ---
@@ -105,15 +101,6 @@ volunteer mentor.
     <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./assets/ruby-badge.png" width="80"></a></td>
-  </tr>
-</table>
-</details>
-
-<details>
-  <summary align='center'><a href="https://www.datacamp.com/"><img align="center" src="./assets/datacamp-logo.png" width="25"/></a> DataCamp Certificates</summary>
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://www.datacamp.com/statement-of-accomplishment/course/1a731bb2d52db012afbd2b53eef3b9fb7dfbb810" target="blank"><img src="./assets/intro-sql.png" width="80"></a></td>
   </tr>
 </table>
 </details>
