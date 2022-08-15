@@ -35,8 +35,9 @@ volunteer mentor.
     <tr>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" width="65px" src="https://img.shields.io/badge/-HTML5-white?logo=HTML5&logoColor=E34F26&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="65px" src="https://img.shields.io/badge/-CSS3-white?logo=CSS3&logoColor=1572B6&style=plastic"/></a></td>
+      <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="80px" src="https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=plastic"/></a></td>
-        <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
+        
     </tr>
     <tr>
       <td align="center"><a href="https://reactjs.org/"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></a></td>
@@ -73,25 +74,25 @@ volunteer mentor.
 
 <h2 align ="center">⚡ My Stats :
 <div >
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techEmprez&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techEmprez&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 
 <!-- <h2>Weekly Coding Stats</h2>
 
-<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=techEmprez"/> -->
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
+[![Visits Badge](https://badges.pufler.dev/visits/techEmprez/techEmprez?color=blue)](https://github.com/techEmprez) [![Repos Badge](https://badges.pufler.dev/repos/techEmprez?color=blue)](https://github.com/techEmprez?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/techEmprez?color=blue)](https://github.com/techEmprez)
 
 <h3 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/techEmprez/count.svg" />
 </h3>
 
-<!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
+<!-- [![My Badge](https://img.shields.io/badge/i_am-techEmprez-blue)](https://github.com/techEmprez) -->
 </div>
 
 
