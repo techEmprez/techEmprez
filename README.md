@@ -32,12 +32,11 @@ volunteer mentor.
 🛠️ Languages and Tools :
 
 <table align="center">
-    <tr>
+   <tr>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" width="65px" src="https://img.shields.io/badge/-HTML5-white?logo=HTML5&logoColor=E34F26&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="65px" src="https://img.shields.io/badge/-CSS3-white?logo=CSS3&logoColor=1572B6&style=plastic"/></a></td>
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="80px" src="https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=plastic"/></a></td>
-      <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
-        
+        <td align="center"><img alt="Sass" width="65px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://reactjs.org/"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></a></td>
