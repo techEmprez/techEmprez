@@ -25,7 +25,7 @@ volunteer mentor.
 
   [![Twitter Badge](https://img.shields.io/badge/-techEmprez_-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/techEmprez)
   [![Facebook Badge](https://img.shields.io/badge/-techEmprez-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/techEmprez/)
-  [![Gmail Badge](https://img.shields.io/badge/-@balitchoiceosobor-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitchoiceosobor@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-@choiceosobor-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:choiceosobor@gmail.com)
   </h2>
 
   <h2 align="center">
