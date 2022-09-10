@@ -1,6 +1,13 @@
-<h1 align="left">
+<h1 align="center">
 Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
+
+<h3 align="center">Full-Stack Web Developer ✔, Student at Microverse.org 🌟.
+</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Nigeria;Open-Source+Enthusiast;Learning+every+day;Inspiring+Others;Nice+To+Meet+You+...&center=true"></a>
+</p>
 
 🌱 A self-taught full-stack web developer from [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
 
@@ -24,7 +31,6 @@ volunteer mentor.
   [![GitHub Badge](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez/)
 
   [![Twitter Badge](https://img.shields.io/badge/-techEmprez_-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/techEmprez)
-  [![Facebook Badge](https://img.shields.io/badge/-techEmprez-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/techEmprez/)
   [![Gmail Badge](https://img.shields.io/badge/-@choiceosobor-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:choiceosobor@gmail.com)
   </h2>
 
@@ -71,17 +77,14 @@ volunteer mentor.
     </tr>
 </table>
 
-<h2 align ="center">⚡ My Stats :
+---
+<h2 align ="center">⚡ My GitHub Stats :
 <div >
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techEmprez&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techEmprez&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techEmprez&true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight"/>
+  <img height="180" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techEmprez&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 
-
-<!-- <h2>Weekly Coding Stats</h2>
-
-<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=techEmprez"/> -->
-
+---
 <div align="center">
 
 <h3 align="center"> 
@@ -90,57 +93,8 @@ volunteer mentor.
 </h3>
   </div>
 
-
 ---
-<details>
-  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://www.credential.net/96ad2590-b656-439e-add9-5e42d6bf6034" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
-    <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
-    <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
-    <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./assets/ruby-badge.png" width="80"></a></td>
-    
-  </tr>
-</table>
-</details>
-
----
-Current Projects
-
-<a href="https://github.com/mavericks-db/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=portfolio" />
-</a>
-<a href="https://github.com/mavericks-db/capstone01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
-</a>
-<a href="https://github.com/mavericks-db/awesome-books-ES6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=awesome-books-ES6" />
-</a>
-<a href="https://github.com/mavericks-db/todo-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=todo-list" />
-</a>
-<a href="https://github.com/mavericks-db/leaderboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=leaderboard" />
-</a>
-<a href="https://github.com/mavericks-db/capstone02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone02" />
-</a>
-<a href="https://github.com/mavericks-db/bookstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=bookstore" />
-</a>
-<a href="https://github.com/mavericks-db/capstone03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone03" />
-</a>
-<a href="https://github.com/mavericks-db/TDD-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=TDD-project" />
-</a>
-<a href="https://github.com/mavericks-db/capstone04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone04" />
-</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together! 🚀 <em>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Let's connect and forge the future together! </b> 😊 </em>
