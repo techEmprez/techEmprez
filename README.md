@@ -8,7 +8,7 @@ Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/ima
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Nigeria;Open-Source+Enthusiast;Learning+every+day;Inspiring+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+from+Nigeria;Open-Source+Enthusiast;Learning+Every+Day;Inspiring+Others;Nice+To+Meet+You;You're+Welcome+To+My+Little+Space+...&center=true"></a>
 </p>
 
 🌱 A self-taught full-stack web developer from [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
