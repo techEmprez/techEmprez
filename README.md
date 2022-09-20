@@ -82,8 +82,8 @@ volunteer mentor.
 ---
 <h2 align ="center">⚡ My GitHub Stats :
 <div >
-  <img height="180" width="420" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techEmprez&true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight"/>
-  <img height="180" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techEmprez&show_icons=true&theme=tokyonight&layout=compact"/>
+  <img height="180" width="420" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techEmprez&true&show_icons=true&hide_border=false&langs_count=6&hide=true&theme=midnight-purple"/>
+  <img height="180" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techEmprez&show_icons=true&true&theme=midnight-purple&layout=compact"/>
 </div>
 
 ---
