@@ -74,7 +74,7 @@ volunteer mentor.
 </h2>
       </td>
       <td>
-      <img src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="auto" />
+ <img alt="Person coding gif" src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" width="auto" />
       </td>
     </tr>
 </table>
