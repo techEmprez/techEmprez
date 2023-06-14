@@ -28,7 +28,7 @@ volunteer mentor.
   <h2 align="center">
   📬 You can reach me at :
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-techEmprez-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-ChoiceOsobor-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
   [![AngelList Badge](https://img.shields.io/badge/-techEmprez-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/suigeneriz-_001)
   [![GitHub Badge](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez/)
 
