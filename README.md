@@ -15,7 +15,8 @@ Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/ima
 🌱 A self-taught full-stack web developer from [Nigeria](https://en.wikipedia.org/wiki/Nigeria).
 
 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
-Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
+Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I studied as a remote student at [Microverse](https://www.microverse.org/).
+Currently practicing as a Software Product Manager with my acquired and growing PM's skillset.
 
 🥅 My main goal after completing the program is to be able to secure a full-stack programming job position,
 as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
