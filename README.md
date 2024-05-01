@@ -5,7 +5,7 @@
 Hi there! 👋 I'm techEmprez <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<h3 align="center">Full-Stack Web Developer ✔| Student at Microverse.org 🌟.
+<h3 align="center">Full-Stack Web Developer ✔| Software Product Manager 🌟.
 </h3>
 
 <p align="center">
